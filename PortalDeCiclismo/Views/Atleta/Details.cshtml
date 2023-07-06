@@ -1,0 +1,79 @@
+﻿@model PortalDeCiclismo.Models.Atleta
+
+@{
+    ViewBag.Title = "Detalhes";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Atleta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apelido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apelido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataDeNascimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataDeNascimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Peso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Peso)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Altura)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Altura)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sexo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @* Tecnico *@
+    @if (tipoDeUsuario == 2)
+    {
+        <a class="btn btn-success" href="@Url.Action("Edit", "Atleta", new { id = Model.ID })">Editar</a>
+    }
+    <a class="btn btn-primary" href="@Url.Action("Index", "Atleta")">Voltar</a>
+</p>

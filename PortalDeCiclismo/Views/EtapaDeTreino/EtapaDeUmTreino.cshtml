@@ -1,0 +1,67 @@
+﻿@model IEnumerable<PortalDeCiclismo.Models.EtapaDeTreino>
+
+@{
+    ViewBag.Title = "Etapas de Treino";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+    var idUsuario = ViewBag.IdUsuario;
+    var usuario = ViewBag.Usuario;
+}
+
+@* Tecnico *@
+@if (tipoDeUsuario == 2)
+{
+    <h2>
+        <span class="glyphicon glyphicon-random">&nbsp;</span>Etapas Deste Treino
+        <a class="btn btn-success" href="@Url.Action("Create", "EtapaDeTreino")"><span class="glyphicon glyphicon-file"></span> Criar Nova</a>
+    </h2>
+}
+else
+{
+    <h2><span class="glyphicon glyphicon-random">&nbsp;</span>Etapas Deste Treino</h2>
+}
+<table class="table">
+    <tr>
+        <th>
+            Treino
+        </th>
+        <th>
+            Etapa
+        </th>
+        <th>
+            Descrição
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TreinoID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EtapaDeTreinoID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @* Tecnico *@
+                @if (tipoDeUsuario == 2)
+                {
+                    <a class="btn btn-sm btn-success" href="@Url.Action("Edit", "EtapaDeTreino", new { id = item.EtapaDeTreinoID })"><span class="glyphicon glyphicon-pencil"></span></a>
+                    <a class="btn btn-sm btn-info" href="@Url.Action("Details", "EtapaDeTreino", new { id = item.EtapaDeTreinoID })"><span class="glyphicon glyphicon-search"></span></a>
+                    <a class="btn btn-sm btn-danger" href="@Url.Action("Delete", "EtapaDeTreino", new { id = item.EtapaDeTreinoID })"><span class="glyphicon glyphicon-trash"></span></a>
+                }
+                else
+                {
+                    <a class="btn btn-sm btn-info" href="@Url.Action("Details", "EtapaDeTreino", new { id = item.EtapaDeTreinoID })"><span class="glyphicon glyphicon-search"></span></a>
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+<div class="form-group">
+    <a class="btn btn-primary" href="@Url.Action("Index", "Treino")">Voltar</a>
+</div>

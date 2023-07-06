@@ -1,0 +1,39 @@
+﻿@model PortalDeCiclismo.Models.Categoria
+
+@{
+    ViewBag.Title = "Detalhes";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Categoria</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @* Tecnico *@
+    @if (tipoDeUsuario == 2)
+    {
+        <a class="btn btn-success" href="@Url.Action("Edit", "Categoria", new { id = Model.CategoriaID })">Editar</a>
+    }
+    <a class="btn btn-primary" href="@Url.Action("Index", "Categoria")">Voltar</a>
+</p>

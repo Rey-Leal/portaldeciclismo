@@ -1,0 +1,409 @@
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.dll.config
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.pdb
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.exe
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.exe.config
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.rsp
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.exe
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.exe.config
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.rsp
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.AppContext.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Collections.Immutable.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Console.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Compression.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.FileSystem.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Pipes.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Reflection.Metadata.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.AccessControl.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Claims.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.ValueTuple.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XPath.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.exe
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.exe.config
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.rsp
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\VBCSCompiler.exe
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\VBCSCompiler.exe.config
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Antlr3.Runtime.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.SqlServer.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.Web.Infrastructure.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Newtonsoft.Json.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Helpers.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Mvc.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Optimization.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Razor.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Deployment.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Razor.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\WebGrease.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.SqlServer.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Helpers.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Mvc.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Optimization.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Razor.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Deployment.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Razor.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Newtonsoft.Json.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Antlr3.Runtime.pdb
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.csproj.CoreCompileInputs.cache
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.csproj.CopyComplete
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.dll
+F:\Pos Graduacao\TCC\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.pdb
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.dll.config
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.pdb
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.exe
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.exe.config
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.rsp
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.exe
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.exe.config
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.rsp
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.AppContext.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Collections.Immutable.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Console.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Compression.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.FileSystem.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Pipes.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.AccessControl.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Claims.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.ValueTuple.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XPath.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.exe
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.exe.config
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.rsp
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\VBCSCompiler.exe
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\VBCSCompiler.exe.config
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Antlr3.Runtime.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.SqlServer.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.Common.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.DataVisualization.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.Design.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.WebDesign.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.WinForms.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.SqlServer.Types.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.Web.Infrastructure.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Newtonsoft.Json.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Helpers.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Mvc.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Optimization.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Razor.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Deployment.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Razor.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\WebGrease.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\EnvDTE.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\stdole.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.MSXML.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.SqlServer.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Helpers.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Mvc.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Optimization.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Razor.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Deployment.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Razor.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Newtonsoft.Json.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Antlr3.Runtime.pdb
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.csproj.CopyComplete
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.dll
+E:\Meus Documentos\Documents\Visual Studio 2017\Projects\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.pdb
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.dll.config
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\PortalDeCiclismo.pdb
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.exe
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.exe.config
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csc.rsp
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.exe
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.exe.config
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\csi.rsp
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.AppContext.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Collections.Immutable.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Console.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Compression.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.FileSystem.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.IO.Pipes.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.AccessControl.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Claims.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.ValueTuple.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XPath.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.exe
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.exe.config
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\vbc.rsp
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\VBCSCompiler.exe
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\roslyn\VBCSCompiler.exe.config
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Antlr3.Runtime.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.SqlServer.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.Common.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.Design.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.SqlServer.Types.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.Web.Infrastructure.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Newtonsoft.Json.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Helpers.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Mvc.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Optimization.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Razor.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Deployment.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Razor.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\WebGrease.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\EnvDTE.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\stdole.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.MSXML.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\EntityFramework.SqlServer.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Helpers.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Mvc.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Optimization.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.Razor.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Deployment.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Web.WebPages.Razor.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Newtonsoft.Json.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Antlr3.Runtime.pdb
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.csproj.CoreCompileInputs.cache
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.csproj.CopyComplete
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.dll
+D:\Reinaldo\Documentos\Projects Web\PortalDeCiclismo\PortalDeCiclismo\obj\Debug\PortalDeCiclismo.pdb

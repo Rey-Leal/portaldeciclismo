@@ -1,0 +1,15 @@
+﻿@{
+
+    ViewBag.Title = "Login Inválido";
+}
+
+<h2>
+    Login Inválido
+</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p>Usuário ou senha incorretos!</p>
+    <a class="btn btn-success" href="@Url.Action("Login", "Home")">Login</a>
+    <a class="btn btn-primary" href="@Url.Action("Index", "Home")">Home</a>
+}

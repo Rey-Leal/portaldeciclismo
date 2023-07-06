@@ -1,0 +1,68 @@
+﻿@{
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+    var idUsuario = ViewBag.IdUsuario;
+    var usuario = ViewBag.Usuario;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Portal de Ciclismo</title>
+    <link rel="icon" href="~/Content/Icones/logomarca.ico" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Portal de Ciclismo", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <form action="@Url.Action("Logoff", "Home")" method="post">
+                    <ul class="nav navbar-nav">
+                        @switch (tipoDeUsuario)
+                        {
+                            case 0: //Sem acesso
+                                <li><a class="btn" href="@Url.Action("Login", "Home")"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                                break;
+                            case 1: //Atleta
+                                <li><a class="btn" href="@Url.Action("Index", "Atleta")" title="Meu Cadastro"><i class="glyphicon glyphicon-user" aria-hidden="true"></i> Cadastro</a></li>
+                                <li><a class="btn" href="@Url.Action("Index", "Treino")" title="Meus Treinos"><span class="glyphicon glyphicon-flag"></span> Treinos</a></li>
+                                <li><a class="btn" href="@Url.Action("Index", "EtapaDeTreino")" title="Minhas Etapas de Treinos"><span class="glyphicon glyphicon-random"></span> Etapas</a></li>
+                                <li><button style="padding: 8px; margin: 6px;" class="btn btn-danger" type="submit"><span class="glyphicon glyphicon-log-out"></span> Sair de @usuario</button></li>
+                                break;
+                            case 2: //Tecnico
+                                <li><a class="btn" href="@Url.Action("Index", "Atleta")" title="Atletas"><i class="glyphicon glyphicon-user" aria-hidden="true"></i> Atletas</a></li>
+                                <li><a class="btn" href="@Url.Action("Index", "Categoria")" title="Categorias"><span class="glyphicon glyphicon-tag"></span> Categorias</a></li>
+                                <li><a class="btn" href="@Url.Action("Index", "Tecnico")" title="Técnicos"><span class="glyphicon glyphicon-education"></span> Técnicos</a></li>
+                                <li><a class="btn" href="@Url.Action("Index", "Treino")" title="Treinos"><span class="glyphicon glyphicon-flag"></span> Treinos</a></li>
+                                <li><a class="btn" href="@Url.Action("Index", "EtapaDeTreino")" title="Etapas de Treino"><span class="glyphicon glyphicon-random"></span> Etapas</a></li>
+                                <li><button style="padding: 8px; margin: 6px;" class="btn btn-danger" type="submit"><span class="glyphicon glyphicon-log-out"></span> Sair de @usuario</button></li>
+                                break;
+                        }
+                    </ul>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p class="text-center">&copy; @DateTime.Now.Year - Portal de Ciclismo</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,44 @@
+﻿@model PortalDeCiclismo.Models.EtapaDeTreino
+
+@{
+    ViewBag.Title = "Details";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Etapa de Treino</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TreinoID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TreinoID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EtapaDeTreinoID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EtapaDeTreinoID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @* Tecnico *@
+    @if (tipoDeUsuario == 2)
+    {
+        <a class="btn btn-success" href="@Url.Action("Edit", "EtapaDeTreino", new { id = Model.EtapaDeTreinoID })">Editar</a>
+    }
+    <a class="btn btn-primary" href="@Url.Action("Index", "EtapaDeTreino")">Voltar</a>
+</p>

@@ -1,0 +1,63 @@
+﻿@model PortalDeCiclismo.Models.Treino
+
+@{
+    ViewBag.Title = "Detalhes";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Treino</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Atleta.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atleta.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tecnico.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tecnico.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Desempenho)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Desempenho)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Observacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Observacao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @* Tecnico *@
+    @if (tipoDeUsuario == 2)
+    {
+        <a class="btn btn-success" href="@Url.Action("Edit", "Treino", new { id = Model.TreinoID })">Editar</a>
+    }
+    <a class="btn btn-primary" href="@Url.Action("Index", "Treino")">Voltar</a>
+</p>

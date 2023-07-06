@@ -1,0 +1,65 @@
+﻿@model PortalDeCiclismo.Models.Treino
+
+@{
+    ViewBag.Title = "Deletar";
+}
+
+<h2>Deletar</h2>
+
+<h3>Tem certeza que deseja excluir este item?</h3>
+<div>
+    <h4>Treino</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Atleta.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atleta.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tecnico.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tecnico.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Desempenho)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Desempenho)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Observacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Observacao)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-danger" />
+            <a class="btn btn-primary" href="@Url.Action("Index", "Treino")">Voltar</a>
+        </div>
+    }
+</div>

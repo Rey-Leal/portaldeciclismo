@@ -1,0 +1,17 @@
+﻿@model PortalDeCiclismo.Models.Login
+
+@{
+
+    ViewBag.Title = "Erro";
+}
+
+<h2><span class="glyphicon glyphicon-alert">&nbsp;</span>Erro</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        Ocorreu um erro durante a sua requisição!
+    </div>
+}

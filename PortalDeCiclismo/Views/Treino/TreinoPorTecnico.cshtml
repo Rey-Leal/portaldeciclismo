@@ -1,0 +1,74 @@
+﻿@model IEnumerable<PortalDeCiclismo.Models.Treino>
+
+@{
+    ViewBag.Title = "Treinos por Técnico";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+    var idUsuario = ViewBag.IdUsuario;
+    var usuario = ViewBag.Usuario;
+}
+
+@* Tecnico *@
+@if (tipoDeUsuario == 2)
+{
+    <form action="../Treino/TreinoPorTecnico" method="post" enctype="multipart/form-data">
+        <h2>
+            <span class="glyphicon glyphicon-flag">&nbsp;</span>Treinos
+            <a class="btn btn-success" href="@Url.Action("Create", "Treino")"><span class="glyphicon glyphicon-file"></span> Criar Novo</a>
+            <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-stats"></span> Meus Treinos</button>
+        </h2>
+    </form>
+}
+else
+{
+    <h2><span class="glyphicon glyphicon-flag">&nbsp;</span>Meus Treinos</h2>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Atleta.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Categoria.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tecnico.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desempenho)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Observacao)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Atleta.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categoria.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tecnico.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desempenho)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacao)
+            </td>
+            <td>
+                @* Tecnico *@
+                @if (tipoDeUsuario == 2)
+                {
+                    <a class="btn btn-sm btn-success" href="@Url.Action("Edit", "Treino", new { id = item.TreinoID })"><span class="glyphicon glyphicon-pencil"></span></a>
+                }
+                <a class="btn btn-sm btn-info" href="@Url.Action("Details", "Treino", new { id = item.TreinoID })"><span class="glyphicon glyphicon-search"></span></a>
+                <a class="btn btn-sm btn-danger" href="@Url.Action("Delete", "Treino", new { id = item.TreinoID })"><span class="glyphicon glyphicon-trash"></span></a>
+            </td>
+        </tr>
+    }
+</table>

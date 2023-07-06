@@ -1,0 +1,82 @@
+﻿@model IEnumerable<PortalDeCiclismo.Models.Atleta>
+
+@{
+    ViewBag.Title = "Atletas";
+    var tipoDeUsuario = ViewBag.TipoDeUsuario;
+    var idUsuario = ViewBag.IdUsuario;
+    var usuario = ViewBag.Usuario;
+}
+
+@* Tecnico *@
+@if (tipoDeUsuario == 2)
+{
+    <form action="@Url.Action("ImprimirAtletas", "Atleta")" target="_blank" method="post">
+        <h2>
+            <span class="glyphicon glyphicon-user">&nbsp;</span>Atletas
+            <a class="btn btn-success" href="@Url.Action("Create", "Atleta")"><span class="glyphicon glyphicon-file"></span> Criar Novo</a>
+            <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-print"></span> Imprimir</button>
+        </h2>
+    </form>
+}
+else
+{
+    <h2><span class="glyphicon glyphicon-user">&nbsp;</span>Meu Cadastro</h2>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apelido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataDeNascimento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Peso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Altura)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apelido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataDeNascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Peso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Altura)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sexo)
+            </td>
+            <td>
+                <a class="btn btn-sm btn-success" href="@Url.Action("Edit", "Atleta", new { id = item.ID })"><span class="glyphicon glyphicon-pencil"></span></a>
+                <a class="btn btn-sm btn-info" href="@Url.Action("Details", "Atleta", new { id = item.ID })"><span class="glyphicon glyphicon-search"></span></a>
+                <a class="btn btn-sm btn-danger" href="@Url.Action("Delete", "Atleta", new { id = item.ID })"><span class="glyphicon glyphicon-trash"></span></a>
+            </td>
+        </tr>
+    }
+</table>
